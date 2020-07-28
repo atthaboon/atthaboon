@@ -1,5 +1,4 @@
 # Hi I'm Art 👋
----
 
 
 ## Checkout my projects 💻:
