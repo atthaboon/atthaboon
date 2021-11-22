@@ -2,18 +2,15 @@
 
 
 ## Checkout my projects 💻:
+- https://github.com/qahive/robotframework-puppeteer
+- https://github.com/qahive/robotframework-ExcelDataDriver
+- https://github.com/qahive/robotframework-pdf2textlibrary
+- https://github.com/qahive/robotframework-puppeteer-percy
 
-<!--
-**atthaboon/atthaboon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=atthaboon&show_icons=true&hide=stars">
+</p>
+
