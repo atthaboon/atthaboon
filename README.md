@@ -1,5 +1,10 @@
 # Hi I'm Art 👋
 
+## Checkout my playwright : 
+- Blog:     https://www.qahive.com/category/playwright/
+- Demo:     https://github.com/qahive/blog-playwright-demo
+- FB Group: https://www.facebook.com/groups/playwright.thailand
+
 
 ## Checkout my projects 💻:
 - https://github.com/qahive/robotframework-puppeteer
