@@ -1,9 +1,9 @@
 # Hi I'm Art 👋
 
 ## Checkout my Playwright projects 🎭: 
-- Blog:     https://www.qahive.com/category/playwright/
+- Blog:     https://www.qahive.com/category/playwright/         (TH language)
 - Demo:     https://github.com/qahive/blog-playwright-demo
-- FB Group: https://www.facebook.com/groups/playwright.thailand
+- FB Group: https://www.facebook.com/groups/playwright.thailand (TH language)
 
 
 ## Checkout my projects 💻:
